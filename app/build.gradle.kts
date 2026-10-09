@@ -7,7 +7,6 @@ android {
 namespace = "com.example.solveoverlay"
 compileSdk = 35
 
-```
 defaultConfig {
     applicationId = "com.example.solveoverlay"
     minSdk = 26
@@ -24,6 +23,5 @@ compileOptions {
 kotlinOptions {
     jvmTarget = "17"
 }
-```
 
 }
